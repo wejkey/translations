@@ -13,7 +13,7 @@ $lang['title']['changeram_description'] = "Upraviť zdroje.";
 $lang['title']['alwaysonline_title'] = "Vždy Online";
 $lang['title']['alwaysonline_description'] = "Pracujeme na tom.";
 
-$lang['title']['coins_title'] = "Coins";
+$lang['title']['coins_title'] = "Mince";
 $lang['title']['coins_description'] = "Získajte FalixCoins a vymeňte ich za vylepšenia Minecraft serveru.";
 
 // navigation bar
@@ -49,7 +49,7 @@ $lang['notices']['premiumad'] = "Hosťujte svoj server na špičkovom hardvéri 
 // widgets
 $lang['widgets']['panel_title'] = "Podrobnosti o vašom paneli.";
 $lang['widgets']['panel_ftp'] = "Vaše heslo FTP";
-$lang['widgets']['panel_resetpass'] = "Nesprávne heslo? Môžete ho onoviť tu <a href='/profile/settings'>profile settings</a>.";
+$lang['widgets']['panel_resetpass'] = "Nesprávne heslo? Môžete ho onoviť v <a href='/profile/settings'>nastaveniach profilu</a>.";
 $lang['widgets']['panel_loginbutton'] = "Prihlásiť sa do panelu";
 $lang['widgets']['panel_closebutton'] = "Zavrieť";
 
@@ -65,7 +65,7 @@ $lang['widgets']['changedisk_closebutton'] = "Zavrieť";
 
 // quick links
 $lang['links']['quicklinks'] = "Rýchle Prepojenia";
-$lang['links']['quicklinks_description'] = "Presúvajte sa cez hlavný panel za pomoci rýchlich prepojení";
+$lang['links']['quicklinks_description'] = "Presúvajte sa cez hlavný panel pomocou rýchlych prepojení";
 $lang['links']['createserver'] = "Vytvorte si vlasný server.";
 $lang['links']['createserver_description'] = "Vytvorte si vlasný Minecraft server";
 $lang['links']['coinshop'] = "Nakupujte v FalixCoins Obchode";
@@ -160,14 +160,14 @@ $lang['coins']['joinreward'] = "do 50 FalixCoins za pripojenie na server";
 $lang['affiliate']['title'] = "Pozvite priateľa a získajte 1,000 FalixCoins";
 $lang['affiliate']['description'] = "Pozvite priateľov a získajte odmeny do pár sekúnd.";
 $lang['affiliate']['seconddescription'] = "Pozvite priateľov kopírovaním linku dole a pošlite im ho.";
-$lang['affiliate']['footer'] = "Akonáhle ste pozvali priateľov môžete href='https://client.falixnodes.net/affiliate/status'>si pozrieť list odporučených priateľov</a> alebo nás kontaktovať na našom Discord servery pokiaľ máte nejaké otázky.";
+$lang['affiliate']['footer'] = "Akonáhle ste pozvali priateľov môžete <a href='https://client.falixnodes.net/affiliate/status'>si pozrieť list odporučených priateľov</a> alebo nás kontaktovať na našom Discord servery pokiaľ máte nejaké otázky.";
 
 // activity page
 $lang['activity']['title'] = "Aktivity";
 $lang['activity']['id'] = "ID";
 $lang['activity']['action'] = "AKCIA";
 $lang['activity']['description'] = "POPIS";
-$lang['activity']['useragent'] = "USER-AGENT";
+$lang['activity']['useragent'] = "POUŽÍVATELSKÝ-AGENT";
 $lang['activity']['ip'] = "IP ADRESA";
 $lang['activity']['date'] = "DÁTUM";
 
@@ -189,7 +189,7 @@ $lang['profile']['emailpreference_title'] = "Preferencie Emailu";
 $lang['profile']['emailpreference'] = "Zmeňte svoje preferencie pre email";
 
 $lang['profile']['changepassword_title'] = "Zmeniť Heslo";
-$lang['profile']['changepassword_notice'] = "NB! Pokiaľ sa pokúšate zmeniť heslo od herného panelu, posuňte sa nadol na výzvu na zadanie nového hesla.";
+$lang['profile']['changepassword_notice'] = "Zadrž! Pokiaľ sa pokúšate zmeniť heslo od herného panelu, posuňte sa nadol na výzvu na zadanie nového hesla.";
 $lang['profile']['oldpassword'] = "Staré Heslo";
 $lang['profile']['newpassword'] = "Nové Heslo";
 $lang['profile']['confirmpassword'] = "Potvrdiť Heslo";
@@ -214,7 +214,7 @@ $lang['store']['plan_expire_on'] = "Váš plán sa automaticky obnoví";
 $lang['store']['month'] = "mesiac";
 $lang['store']['cancelplan'] = "Zrušiť Plán";
 $lang['store']['purchase'] = "Zakúpiť Teraz";
-$lang['store']['booster'] = "Booster";
+$lang['store']['booster'] = "Vylepšovač";
 
 $lang['store']['booster1_servers'] = "Vytvorte až 3 servery";
 $lang['store']['booster1_cpu'] = "Získajte 120% CPU /pre každý server";
